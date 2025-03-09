@@ -1,0 +1,37 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Figure Eight"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of Figure Eight"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of Copy of Figure Eight"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of Copy of Copy of Figure Eight"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
